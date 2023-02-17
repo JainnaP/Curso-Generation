@@ -22,7 +22,7 @@ public class Exercicio01 {
 			if(valor==dados[x]) {
 				System.out.println("O número "+valor+" está na posição "+x);
 			}
-		}
+		} 
 	}
 
 }
