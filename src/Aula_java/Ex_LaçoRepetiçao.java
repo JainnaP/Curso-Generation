@@ -2,7 +2,7 @@ package Aula_java;
 
 import java.util.Scanner;
 
-public class LaçoRepetiçao {
+public class Ex_LaçoRepetiçao {
 
 	public static void main(String[] args) {
 		Scanner leia = new Scanner(System.in);
